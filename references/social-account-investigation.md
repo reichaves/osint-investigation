@@ -1,6 +1,6 @@
 # Social Media Account Investigation
 
-For investigating who is behind a social media account, whether the account is authentic, and what its behavioural patterns are.
+For investigating who is behind a social media account, whether the account is authentic, and what its behavioural patterns are
 
 ## When to read this file
 
