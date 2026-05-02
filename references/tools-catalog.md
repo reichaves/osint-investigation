@@ -1,6 +1,6 @@
 # Tools Catalog — OSINT for Journalism
 
-A curated tool list for OSINT investigations, with **honest limitations** noted. Inspired by Bellingcat's Online Investigation Toolkit, but trimmed to the tools most useful for journalists in 2026.
+A curated tool list for OSINT investigations, with **honest limitations** noted. Inspired by Bellingcat's Online Investigation Toolkit, but trimmed to the tools most useful for journalists in 2026
 
 This is not a complete tool dump. The aim is fewer tools, better understood. When the investigation needs something niche, search Bellingcat's full toolkit (https://bellingcat.gitbook.io/toolkit) or GIJN's resource centre.
 
