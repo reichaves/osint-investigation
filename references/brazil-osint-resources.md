@@ -66,7 +66,7 @@ This file complements (does not replace) the global tools in `tools-catalog.md`.
 ### IBAMA — auto de infração / SICAFI
 - Environmental fines and embargoes.
 - URL: https://servicos.ibama.gov.br
-- **Bulk data:** Periodically published; Abraji and others have open notebooks for analysis.
+- **Bulk data:** Periodically published; several newsrooms have open notebooks for analysis.
 
 ### ICMBio — embargoed areas
 - Areas embargoed by ICMBio in conservation units.
@@ -111,7 +111,7 @@ This file complements (does not replace) the global tools in `tools-catalog.md`.
 ### PNCP — Portal Nacional de Contratações Públicas
 - All federal, state, and municipal procurement notices and contracts (2021+).
 - URL: https://www.gov.br/pncp
-- **Bulk data:** API available; has been used for Abraji-led investigations into procurement irregularities and AI/surveillance contracts.
+- **Bulk data:** API available; has been used in Brazilian investigative journalism projects on procurement irregularities and AI/surveillance contracts.
 
 ### ComprasNet (legacy federal)
 - Pre-PNCP federal procurement.
@@ -121,7 +121,7 @@ This file complements (does not replace) the global tools in `tools-catalog.md`.
 
 ## Aggregators and journalist tools
 
-### Abraji's CruzaGrafos
+### CruzaGrafos
 - Network analysis on 89M+ Brazilian public records (corporate, electoral, judicial, sanctions).
 - Used by 50+ Latin American newsrooms.
 
@@ -133,7 +133,7 @@ This file complements (does not replace) the global tools in `tools-catalog.md`.
 - Aggregated municipal Diários Oficiais — searchable.
 - URL: https://queridodiario.ok.org.br
 
-### Achados e Pedidos (Abraji + Open Knowledge Brasil)
+### Achados e Pedidos (Open Knowledge Brasil)
 - Public collection of FOIA requests and responses. Useful for finding requests already made by other journalists.
 - URL: https://achadosepedidos.org.br
 
@@ -167,5 +167,4 @@ For Brazilian-specific geolocation:
 ## Notas finais
 
 - The federal data ecosystem in Brazil is one of the strongest in Latin America, but state and municipal coverage is uneven. Cross-checking aggregators with original portals catches gaps.
-- Journalists should be members of **Abraji** (Associação Brasileira de Jornalismo Investigativo) — many of the best Brazilian OSINT resources are documented in Abraji's training materials and Congresso Internacional sessions.
 - For grant-funded investigations, document data provenance carefully — funders increasingly ask for it.

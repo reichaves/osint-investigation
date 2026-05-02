@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange)](https://github.com/reichaves/osint-investigation)
 [![Berkeley Protocol](https://img.shields.io/badge/Standard-Berkeley%20Protocol-purple)](https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/)
-[![Abraji](https://img.shields.io/badge/Org-Abraji-red)](https://abraji.org.br)
+
 
 A structured OSINT (Open-Source Intelligence) skill for Claude, tailored to investigative journalists. Grounded in the **Berkeley Protocol on Digital Open Source Investigations** and Bellingcat-style verification workflows.
 
@@ -102,7 +102,7 @@ For stories involving Brazilian people, companies, or events, the skill also loa
 - JusBrasil, TSE (DivulgaCandContas), CNJ
 - IBAMA, ICMBio, MapBiomas, INPE/DETER
 - PNCP (public procurement), Câmara and Senado open APIs
-- CruzaGrafos (Abraji), Brasil.IO, Querido Diário, Achados e Pedidos
+- CruzaGrafos, Brasil.IO, Querido Diário, Achados e Pedidos
 
 ---
 
@@ -132,8 +132,8 @@ See `references/ethics-and-safety.md` for full ethical, legal, and operational-s
 
 ## Author
 
-**Reinaldo Chaves** — AI, Data & Technology Coordinator at [Abraji](https://abraji.org.br)  
-GitHub: [@reichaves](https://github.com/reichaves)
+**Reinaldo Chaves** — Data journalist in Brazil  
+Email: reichaves@gmail.com | GitHub: [@reichaves](https://github.com/reichaves)
 
 ---
 

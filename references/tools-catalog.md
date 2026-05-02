@@ -221,7 +221,7 @@ For each tool: **what it does → when to use → limitations / cost**. Limitati
 - **Use for:** Sharing network maps with editors.
 - **Limits:** Free tier limited; pay for private maps. Free / paid.
 
-### CruzaGrafos (Abraji)
+### CruzaGrafos
 - **What:** Brazilian-focused network analysis on 89M+ public records.
 - **Use for:** Brazilian corporate / political / litigation networks.
 - **Limits:** Brazilian focus. Free for journalists with verified access.

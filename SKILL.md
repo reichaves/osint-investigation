@@ -3,7 +3,7 @@ name: osint-investigation
 description: Open-source intelligence (OSINT) investigations for journalism — image geolocation, visual verification, person/entity profiling, and social media intelligence following Berkeley Protocol standards. Use whenever the user uploads a photo or video and asks where it was taken, asks to geolocate, verify, or investigate an image, person, account, company, or document; mentions OSINT, geolocation, lead sheet, dossier, EXIF, reverse image search, Bellingcat, or asks to "find out where this is" or "who is behind this account"; or requests an investigative briefing built from public sources. Produces structured lead sheets with explicit confidence levels, evidence chains, and follow-up questions for the journalist. Works in Portuguese and English. Triggers even when the user does not explicitly say "OSINT" — the verbs "geolocalizar", "verificar a origem", "rastrear", "descobrir onde", "investigar essa conta", "perfil de risco", "due diligence" should all activate this skill.
 license: MIT
 metadata:
-  author: Reinaldo Chaves (Abraji)
+  author: Reinaldo Chaves (reichaves@gmail.com)
   version: 1.0.0
   audience: investigative journalists, fact-checkers, researchers
   language: bilingual (pt-BR + en)

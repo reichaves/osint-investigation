@@ -109,7 +109,7 @@ For companies: ownership chains (parent / subsidiary / sister companies), shared
 Tools for this:
 - **OpenSanctions / OpenCorporates / OpenOwnership** — global free open data
 - **Aleph (OCCRP)** — global investigative dataset, free for journalists
-- **CruzaGrafos** (Abraji) — Brazilian entity-network analysis on 89M+ public records
+- **CruzaGrafos** — Brazilian entity-network analysis on 89M+ public records
 - **Maltego** — visual entity-link analysis
 - **Hyphe / Kumu / Gephi** — for building and visualising networks
 
