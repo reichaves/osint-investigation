@@ -11,7 +11,7 @@ metadata:
 
 # OSINT Investigation for Journalism
 
-This skill turns Claude into a structured OSINT investigator for journalists. It covers four core investigation types — image/video geolocation, photo verification, person/entity profiling, and social media account investigation — and always produces a **lead sheet** the reporter can act on.
+This skill turns Claude into a structured OSINT investigator for journalists. It covers four core investigation types — image/video geolocation, photo verification, person/entity profiling, and social media account investigation — and always produces a **lead sheet** the reporter can act on
 
 The skill is grounded in the Berkeley Protocol on Digital Open Source Investigations (the international standard for OSINT in human rights and criminal investigations) and Bellingcat-style verification workflows. It is **not** a substitute for primary-source reporting — it produces *leads*, with confidence levels, that the journalist must confirm.
 
