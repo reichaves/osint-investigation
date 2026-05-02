@@ -4,7 +4,7 @@ Detailed methodology for determining where a photograph or video was taken, usin
 
 ## When to read this file
 
-Read this when the journalist has uploaded an image, a video, or a link to one, and is asking *where* it was taken. The main `SKILL.md` summarises the loop; this file gives you the substance.
+Read this when the journalist has uploaded an image, a video, or a link to one, and is asking *where* it was taken. The main `SKILL.md` summarises the loop; this file gives you the substance
 
 ## The two-phase model
 
