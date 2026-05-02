@@ -1,6 +1,6 @@
 # Entity Profiling — Person and Company OSINT
 
-For building a profile of a person, organisation, or company from public sources, for journalism purposes.
+For building a profile of a person, organisation, or company from public sources, for journalism purposes
 
 ## When to read this file
 
