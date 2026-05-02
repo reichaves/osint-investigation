@@ -6,7 +6,7 @@
 [![Berkeley Protocol](https://img.shields.io/badge/Standard-Berkeley%20Protocol-purple)](https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/)
 
 
-A structured OSINT (Open-Source Intelligence) skill for Claude, tailored to investigative journalists. Grounded in the **Berkeley Protocol on Digital Open Source Investigations** and Bellingcat-style verification workflows.
+A structured OSINT (Open-Source Intelligence) skill for Claude, tailored to investigative journalists. Grounded in the **Berkeley Protocol on Digital Open Source Investigations** and Bellingcat-style verification workflows
 
 ---
 
