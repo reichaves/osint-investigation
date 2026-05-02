@@ -2,7 +2,7 @@
 
 Brazilian public-record sources for OSINT investigations. Read this when the story is about Brazilian people, companies, or events.
 
-This file complements (does not replace) the global tools in `tools-catalog.md`. Brazilian investigations almost always need *both* the global aggregators (OpenCorporates, OpenSanctions, Aleph) *and* the Brazilian primary sources, because the aggregators frequently lag the originals or miss state/municipal data.
+This file complements (does not replace) the global tools in `tools-catalog.md`. Brazilian investigations almost always need *both* the global aggregators (OpenCorporates, OpenSanctions, Aleph) *and* the Brazilian primary sources, because the aggregators frequently lag the originals or miss state/municipal data
 
 ## Cadastros e dados corporativos
 
