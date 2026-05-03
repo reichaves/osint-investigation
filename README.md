@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange)](https://github.com/reichaves/osint-investigation)
 [![Berkeley Protocol](https://img.shields.io/badge/Standard-Berkeley%20Protocol-purple)](https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-red)](SECURITY.md)
 
 
 A structured OSINT (Open-Source Intelligence) skill for Claude, tailored to investigative journalists. Grounded in the **Berkeley Protocol on Digital Open Source Investigations** and Bellingcat-style verification workflows
@@ -38,9 +39,13 @@ Claude Code will automatically discover and load the skill from `~/.claude/skill
 osint-investigation/
 ├── README.md
 ├── LICENSE
+├── SECURITY.md                               ← security policy and responsible disclosure
 ├── SKILL.md                                  ← main skill definition (loaded by Claude)
 ├── assets/
 │   └── lead-sheet-template.md               ← bilingual (PT-BR / EN) output template
+├── docs/
+│   ├── security-audit.md                    ← reproducible 4-layer security audit plan
+│   └── trust-communication.md              ← guide for communicating safety to newsrooms and partners
 └── references/
     ├── geolocation-framework.md             ← full geolocation methodology + tools
     ├── verification-checklist.md            ← Berkeley Protocol-aligned verification steps
@@ -117,6 +122,24 @@ This skill is for **investigative journalism in the public interest**. It will r
 - Assist surveillance against civil society
 
 See `references/ethics-and-safety.md` for full ethical, legal, and operational-security guidance.
+
+---
+
+## Security
+
+This skill is **pure documentation** — no executable code, no package dependencies, no API keys, no server infrastructure. Its security model is built on three pillars:
+
+- **Minimal scope:** The skill reads only its own bundled reference files within Claude's context window. No file system writes, no network calls, no credential management.
+- **Content auditability:** Every file is human-readable Markdown. Anyone can audit the full skill in under an hour.
+- **Behavioral guardrails:** Refusal criteria for stalking, doxxing, minor investigation, and real-time tracking are unconditional and hardcoded into `SKILL.md`.
+
+| Resource | Purpose |
+|---|---|
+| [`SECURITY.md`](SECURITY.md) | Security policy, responsible disclosure, permission scope documentation |
+| [`docs/security-audit.md`](docs/security-audit.md) | Reproducible 4-layer audit: static content, permission scope, adversarial testing, distribution integrity |
+| [`docs/trust-communication.md`](docs/trust-communication.md) | How to communicate safety to newsrooms, international partners, funders, and individual users |
+
+To report a security concern, see [`SECURITY.md`](SECURITY.md).
 
 ---
 
